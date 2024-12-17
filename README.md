@@ -1,1 +1,1 @@
-# projeto_ransomware_dio
+# Criando metodo Ransomware em Python
